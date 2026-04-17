@@ -4,7 +4,7 @@ import hashlib
 
 
 def create_user_db():
-    # Define your users here (Username : Plaintext Password)
+    # Define your users here 
     # Example users
     users = {
         "admin": "password123",
